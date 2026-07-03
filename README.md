@@ -12,7 +12,7 @@ I am an Artificial Intelligence Graduate from Umm Al-Qura University. My primary
 
 ### Interests & Learning
 * **Focus:** Computer Vision, Deep Learning, and Transfer Learning.
-* **Current Goal:** Exploring advanced object detection models and optimizing algorithms for real-time efficiency.
+* **Current Goal:** Deploying optimized, real-time object detection models and exploring advanced generative architectures.
 
 ### Tech Stack
 * **Languages:** Python
