@@ -1,7 +1,6 @@
 # Hi there, I'm Aliyah! 👋
 
-I am a Senior **Artificial Intelligence** student at **Umm Al-Qura University**, graduating in 2026. My primary passion lies in **Computer Vision**, and I am dedicated to building AI systems that solve real-world problems in safety and healthcare.
-
+I am an Artificial Intelligence Graduate from Umm Al-Qura University. My primary passion lies in Computer Vision and Deep Learning, and I am dedicated to building robust AI systems that solve real-world problems in safety and smart applications.
 
 ---
 
