@@ -14,18 +14,18 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 An Artificial Intelligence Specialist who builds end-to-end AI systems across **Computer Vision, NLP, and Generative AI**, and takes them all the way from model development to production deployment. My core strength is training and optimizing detection and classification models, then wrapping them in clean, well-engineered software, with real attention to the things that make AI usable: **latency, model size, privacy, and reliable deployment.**
 
-- 🔬 **Computer Vision:** object detection, image classification, real-time video analysis
-- 🧩 **Deep Learning:** CNNs & Transformers, including architectures built from scratch
-- 💬 **NLP & Generative AI:** text classification, LLMs, and RAG
-- ⚙️ **Production Engineering:** FastAPI + PostgreSQL backends, React frontends, ONNX-optimized inference
+- **Computer Vision:** object detection, image classification, real-time video analysis
+- **Deep Learning:** CNNs & Transformers, including architectures built from scratch
+- **NLP & Generative AI:** text classification, LLMs, and RAG
+- **Production Engineering:** FastAPI + PostgreSQL backends, React frontends, ONNX-optimized inference
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-96505F?style=for-the-badge&logo=python&logoColor=white)
@@ -79,7 +79,7 @@ An Artificial Intelligence Specialist who builds end-to-end AI systems across **
 
 ---
 
-### 🎯 Domains & Concepts
+### Domains & Concepts
 
 `Computer Vision` · `Deep Learning` · `NLP` · `LLMs & RAG` · `CNNs` · `Object Detection` · `Image Classification` · `Anomaly Detection` · `Real-Time Monitoring` · `Model Evaluation` · `Data Preprocessing & Augmentation` 
 
