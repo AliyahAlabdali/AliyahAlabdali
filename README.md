@@ -12,9 +12,7 @@
 
 </div>
 
----
-
-### 🌸 About Me
+### About Me
 
 An Artificial Intelligence Specialist who builds end-to-end AI systems across **Computer Vision, NLP, and Generative AI**, and takes them all the way from model development to production deployment. My core strength is training and optimizing detection and classification models, then wrapping them in clean, well-engineered software, with real attention to the things that make AI usable: **latency, model size, privacy, and reliable deployment.**
 
@@ -23,9 +21,7 @@ An Artificial Intelligence Specialist who builds end-to-end AI systems across **
 - **NLP & Generative AI:** text classification, LLMs, and RAG
 - **Production Engineering:** FastAPI + PostgreSQL backends, React frontends, ONNX-optimized inference
 
----
-
-## 🌸 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -92,9 +88,7 @@ An Artificial Intelligence Specialist who builds end-to-end AI systems across **
   <a href="https://roboflow.com/" target="_blank"><img src="https://cdn.simpleicons.org/roboflow/6706CE" width="48" height="48" alt="Roboflow"/></a>
 </p>
 
----
-
-## 🌸 Domains & Concepts
+## Domains & Concepts
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Vision-F8D7DF?style=flat-square"/>
@@ -110,10 +104,81 @@ An Artificial Intelligence Specialist who builds end-to-end AI systems across **
   <img src="https://img.shields.io/badge/Data%20Preprocessing%20%26%20Augmentation-B36675?style=flat-square"/>
 </p>
 
----
+## Projects
+
+### [Yaqidh: Real-Time Child-Safety Monitoring](https://github.com/Yaqidh-Project/Yaqidh)
+
+![Graduation Project](https://img.shields.io/badge/Graduation_Project-96505F?style=flat-square)
+
+An end-to-end AI system that monitors live CCTV feeds, detects falls and physical violence with YOLOv8s ONNX models, and pushes instant role-based alerts to parents, teachers, and managers through live analytics dashboards.
+
+- Trained and validated two custom YOLOv8 models reaching **0.81 / 0.66 mAP@50** (fall / violence), and cut inference latency **~20%** via ONNX optimization.
+- Shipped the full stack with JWT/RBAC security, real-time WebSocket and SMS/email alerting, incident logging with video clips, and end-to-end integration testing.
+
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-F3C6D2?style=flat-square) ![YOLOv8](https://img.shields.io/badge/YOLOv8-F3C6D2?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-F3C6D2?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-F3C6D2?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-F3C6D2?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F3C6D2?style=flat-square) ![React](https://img.shields.io/badge/React-F3C6D2?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-F3C6D2?style=flat-square)
+
+[![Video Demo](https://img.shields.io/badge/Video_Demo-C77D88?style=flat-square)](https://drive.google.com/file/d/1gR5Adeat6XKeJb-j9T-kjN15vZKI8x94/view) [![Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/Yaqidh-Project/Yaqidh)
+
+### [SMS Scam & Spam Detection: Transformer from Scratch](https://github.com/AliyahAlabdali/SMS-Scam-Detection-Transformer)
+
+A Transformer encoder built entirely from scratch in PyTorch, with custom scaled dot-product attention, multi-head attention, and a Pre-LN encoder block, that flags scam/spam SMS.
+
+- **98% accuracy** and **0.95 macro-F1** on the imbalanced SMS Spam Collection, with only 10 misclassifications out of 517 test messages.
+- Includes a unit-tested attention core, class-weighted training, an ablation study (2 vs 4 heads), and detailed error analysis.
+
+![NLP](https://img.shields.io/badge/NLP-F3C6D2?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-F3C6D2?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-F3C6D2?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F3C6D2?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F3C6D2?style=flat-square)
+
+[![Open in Colab](https://img.shields.io/badge/Open_in_Colab-C77D88?style=flat-square)](https://colab.research.google.com/github/AliyahAlabdali/SMS-Scam-Detection-Transformer/blob/main/SMS_Scam_Detection_Transformer.ipynb) [![Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/AliyahAlabdali/SMS-Scam-Detection-Transformer)
+
+### [Brain Tumor Classification System (BTCS)](https://github.com/AliyahAlabdali/BTCS-Project)
+
+A privacy-first web app that classifies brain MRI scans into four tumor types (Glioma, Meningioma, Pituitary, No Tumor) entirely in the browser, so no patient data ever leaves the device.
+
+- Delivers **~79% accuracy at ~9 ms inference** from a lightweight **~1.5 MB** ONNX model, with real-time confidence scoring across all four classes.
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-F3C6D2?style=flat-square) ![YOLOv8](https://img.shields.io/badge/YOLOv8-F3C6D2?style=flat-square) ![ONNX Runtime Web](https://img.shields.io/badge/ONNX_Runtime_Web-F3C6D2?style=flat-square) ![React](https://img.shields.io/badge/React-F3C6D2?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-F3C6D2?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-C77D88?style=flat-square)](https://btcs-project.vercel.app) [![Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/AliyahAlabdali/BTCS-Project)
+
+### [WearScanner: Fashion Classifier with Style Tips](https://github.com/RenadAlh/WearScanner)
+
+A CNN trained on Fashion-MNIST that classifies a clothing item into one of 10 categories and pairs every prediction with an automatic style tip covering occasion, accessory ideas, and matching colors.
+
+- **92.9% test accuracy** (93.1% precision) from a 3-block convolutional network, with TensorBoard logging and an interactive image-upload demo.
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-F3C6D2?style=flat-square) ![CNNs](https://img.shields.io/badge/CNNs-F3C6D2?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-F3C6D2?style=flat-square) ![TensorBoard](https://img.shields.io/badge/TensorBoard-F3C6D2?style=flat-square) ![Python](https://img.shields.io/badge/Python-F3C6D2?style=flat-square)
+
+[![Open in Colab](https://img.shields.io/badge/Open_in_Colab-C77D88?style=flat-square)](https://colab.research.google.com/github/RenadAlh/WearScanner/blob/main/WearScanner.ipynb) [![Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/RenadAlh/WearScanner)
+
+### [California Housing: Classification & Regression](https://github.com/RahafAlmalki/California-Housing-ML-Assignment)
+
+A ML study on the California Housing dataset (20,640 records, 8 features), covering EDA, feature engineering, a logistic-regression classifier, and a degree-2 polynomial regression model.
+
+- Logistic Regression reached **84.9% accuracy / 0.93 ROC-AUC**, and polynomial regression explained **65% of variance (R² 0.65)**, with SelectKBest surfacing location and income as the strongest price predictors.
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F3C6D2?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F3C6D2?style=flat-square) ![pandas](https://img.shields.io/badge/pandas-F3C6D2?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-F3C6D2?style=flat-square)
+
+[![Open in Colab](https://img.shields.io/badge/Open_in_Colab-C77D88?style=flat-square)](https://colab.research.google.com/drive/1IJ5jwh_b38cqLnDMqd0JYdzia5UrJMbt?usp=sharing) [![Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/RahafAlmalki/California-Housing-ML-Assignment)
+
+Looking for more? Browse my full set of repositories and latest work on [my GitHub profile](https://github.com/AliyahAlabdali?tab=repositories).
+
+## Contact
 
 <div align="center">
 
-### 💗 Currently focused on building fast, reliable AI systems and exploring Generative AI.
+Let's connect. I'm open to AI / ML roles and collaborations.
+
+<a href="mailto:AliyahAlabdali24@gmail.com" target="_blank"><img src="https://api.iconify.design/logos/google-gmail.svg" width="48" height="48" alt="Email"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aliyah-alabdali-5ba599274/" target="_blank"><img src="https://api.iconify.design/skill-icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://aliyahalabdali.github.io/" target="_blank"><img src="https://api.iconify.design/lucide/globe.svg?color=%23C77D88" width="48" height="48" alt="Portfolio"/></a>
+
+
+</div>
+
+<div align="center">
+
+<sub>🌸 Thanks for visiting! Let's build something great together. 🌸</sub>
 
 </div>
