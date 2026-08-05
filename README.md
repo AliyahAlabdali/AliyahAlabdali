@@ -30,112 +30,51 @@ An Artificial Intelligence Specialist who builds end-to-end AI systems across **
 ### Languages
 
 <p>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-  </a>
+  <a href="https://www.python.org/" target="_blank"><img src="assets/logos/python.png" width="54" alt="Python"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="assets/logos/postgresql.png" width="54" alt="PostgreSQL"/></a>
 </p>
 
 ### AI / Machine Learning
 
 <p>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
-  </a>
-  <a href="https://keras.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face"/>
-  </a>
-  <a href="https://docs.ultralytics.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/ultralytics/0052FF" width="48" height="48" alt="YOLO / Ultralytics"/>
-  </a>
-  <a href="https://onnx.ai/" target="_blank">
-    <img src="https://cdn.simpleicons.org/onnx/005CED" width="48" height="48" alt="ONNX"/>
-  </a>
+  <a href="https://pytorch.org/" target="_blank"><img src="assets/logos/pytorch.png" width="54" alt="PyTorch"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="assets/logos/tensorflow.png" width="54" alt="TensorFlow"/></a>
+  <a href="https://keras.io/" target="_blank"><img src="assets/logos/keras.png" width="54" alt="Keras"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="assets/logos/scikitlearn.png" width="54" alt="scikit-learn"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="assets/logos/opencv.png" width="54" alt="OpenCV"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="assets/logos/numpy.png" width="54" alt="NumPy"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="assets/logos/pandas.png" width="54" alt="Pandas"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="assets/logos/huggingface.png" width="54" alt="Hugging Face"/></a>
+  <a href="https://docs.ultralytics.com/" target="_blank"><img src="assets/logos/ultralytics.png" width="54" alt="YOLO / Ultralytics"/></a>
+  <a href="https://onnx.ai/" target="_blank"><img src="assets/logos/onnx.png" width="54" alt="ONNX"/></a>
 </p>
 
 ### Backend & Frontend
 
 <p>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="assets/logos/fastapi.png" width="54" alt="FastAPI"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="assets/logos/postgresql.png" width="54" alt="PostgreSQL"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="assets/logos/react.png" width="54" alt="React"/></a>
 </p>
 
 ### Cloud & Hosting
 
 <p>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=azure" height="48" alt="Azure"/>
-  </a>
-
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/>
-  </a>
-
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel"/>
-  </a>
-
-  <a href="https://render.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/render/46E3B7" width="46" height="48" alt="Render"/>
-  </a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/logos/azure.png" width="54" alt="Azure"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="assets/logos/aws.png" width="54" alt="AWS"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="assets/logos/vercel.png" width="54" alt="Vercel"/></a>
+  <a href="https://render.com/" target="_blank"><img src="assets/logos/render.png" width="54" alt="Render"/></a>
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg">
-    <img alt="GitHub"
-         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-         width="48" height="48">
-  </picture>
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" alt="Google Colab"/>
-  </a>
-  <a href="https://www.tensorflow.org/tensorboard" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorBoard"/>
-  </a>
-  <a href="https://roboflow.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/roboflow/6700FF" width="48" height="48" alt="Roboflow"/>
-  </a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="assets/logos/vscode.png" width="54" alt="VS Code"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="assets/logos/jupyter.png" width="54" alt="Jupyter"/></a>
+  <a href="https://github.com/" target="_blank"><img src="assets/logos/github.png" width="54" alt="GitHub"/></a>
+  <a href="https://colab.research.google.com/" target="_blank"><img src="assets/logos/googlecolab.png" width="54" alt="Google Colab"/></a>
+  <a href="https://www.tensorflow.org/tensorboard" target="_blank"><img src="assets/logos/tensorboard.png" width="54" alt="TensorBoard"/></a>
+  <a href="https://roboflow.com/" target="_blank"><img src="assets/logos/roboflow.png" width="54" alt="Roboflow"/></a>
 </p>
 
 ---
