@@ -49,7 +49,6 @@ An Artificial Intelligence Specialist who builds end-to-end AI systems across **
 
 <p>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/></a>
 </p>
 
@@ -117,19 +116,19 @@ An end-to-end AI system that monitors live CCTV feeds, detects falls and physica
 
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-F3C6D2?style=flat-square) ![YOLOv8](https://img.shields.io/badge/YOLOv8-F3C6D2?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-F3C6D2?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-F3C6D2?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-F3C6D2?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F3C6D2?style=flat-square) ![React](https://img.shields.io/badge/React-F3C6D2?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-F3C6D2?style=flat-square)
 
-[![Video Demo](https://img.shields.io/badge/Video_Demo-C77D88?style=flat-square)](https://drive.google.com/file/d/1gR5Adeat6XKeJb-j9T-kjN15vZKI8x94/view) [![Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/Yaqidh-Project/Yaqidh)
+[![Open Video Demo](https://img.shields.io/badge/Video_Demo-C77D88?style=flat-square)](https://drive.google.com/file/d/1gR5Adeat6XKeJb-j9T-kjN15vZKI8x94/view) [![View Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/Yaqidh-Project/Yaqidh)
 
 ### [SMS Scam & Spam Detection: Transformer from Scratch](https://github.com/AliyahAlabdali/SMS-Scam-Detection-Transformer)
-
+ 
 A Transformer encoder built entirely from scratch in PyTorch, with custom scaled dot-product attention, multi-head attention, and a Pre-LN encoder block, that flags scam/spam SMS.
-
+ 
 - **98% accuracy** and **0.95 macro-F1** on the imbalanced SMS Spam Collection, with only 10 misclassifications out of 517 test messages.
 - Includes a unit-tested attention core, class-weighted training, an ablation study (2 vs 4 heads), and detailed error analysis.
 
 ![NLP](https://img.shields.io/badge/NLP-F3C6D2?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-F3C6D2?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-F3C6D2?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F3C6D2?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F3C6D2?style=flat-square)
-
-[![Open in Colab](https://img.shields.io/badge/Open_in_Colab-C77D88?style=flat-square)](https://colab.research.google.com/github/AliyahAlabdali/SMS-Scam-Detection-Transformer/blob/main/SMS_Scam_Detection_Transformer.ipynb) [![Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/AliyahAlabdali/SMS-Scam-Detection-Transformer)
-
+ 
+[![Open Live Demo](https://img.shields.io/badge/Live_Demo-C77D88?style=flat-square)](https://huggingface.co/spaces/AliyahAlabdali/sms-scam-detector) [![Open in Colab](https://img.shields.io/badge/Open_in_Colab-C77D88?style=flat-square)](https://colab.research.google.com/github/AliyahAlabdali/SMS-Scam-Detection-Transformer/blob/main/SMS_Scam_Detection_Transformer.ipynb) [![View Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/AliyahAlabdali/SMS-Scam-Detection-Transformer)
+ 
 ### [Brain Tumor Classification System (BTCS)](https://github.com/AliyahAlabdali/BTCS-Project)
 
 A privacy-first web app that classifies brain MRI scans into four tumor types (Glioma, Meningioma, Pituitary, No Tumor) entirely in the browser, so no patient data ever leaves the device.
@@ -138,7 +137,7 @@ A privacy-first web app that classifies brain MRI scans into four tumor types (G
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-F3C6D2?style=flat-square) ![YOLOv8](https://img.shields.io/badge/YOLOv8-F3C6D2?style=flat-square) ![ONNX Runtime Web](https://img.shields.io/badge/ONNX_Runtime_Web-F3C6D2?style=flat-square) ![React](https://img.shields.io/badge/React-F3C6D2?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-F3C6D2?style=flat-square)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-C77D88?style=flat-square)](https://btcs-project.vercel.app) [![Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/AliyahAlabdali/BTCS-Project)
+[![Open Live Demo](https://img.shields.io/badge/Live_Demo-C77D88?style=flat-square)](https://btcs-project.vercel.app) [![View Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/AliyahAlabdali/BTCS-Project)
 
 ### [WearScanner: Fashion Classifier with Style Tips](https://github.com/RenadAlh/WearScanner)
 
@@ -148,7 +147,7 @@ A CNN trained on Fashion-MNIST that classifies a clothing item into one of 10 ca
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-F3C6D2?style=flat-square) ![CNNs](https://img.shields.io/badge/CNNs-F3C6D2?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-F3C6D2?style=flat-square) ![TensorBoard](https://img.shields.io/badge/TensorBoard-F3C6D2?style=flat-square) ![Python](https://img.shields.io/badge/Python-F3C6D2?style=flat-square)
 
-[![Open in Colab](https://img.shields.io/badge/Open_in_Colab-C77D88?style=flat-square)](https://colab.research.google.com/github/RenadAlh/WearScanner/blob/main/WearScanner.ipynb) [![Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/RenadAlh/WearScanner)
+[![Open in Colab](https://img.shields.io/badge/Open_in_Colab-C77D88?style=flat-square)](https://colab.research.google.com/github/RenadAlh/WearScanner/blob/main/WearScanner.ipynb) [![View Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/RenadAlh/WearScanner)
 
 ### [California Housing: Classification & Regression](https://github.com/RahafAlmalki/California-Housing-ML-Assignment)
 
@@ -158,7 +157,7 @@ A ML study on the California Housing dataset (20,640 records, 8 features), cover
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F3C6D2?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F3C6D2?style=flat-square) ![pandas](https://img.shields.io/badge/pandas-F3C6D2?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-F3C6D2?style=flat-square)
 
-[![Open in Colab](https://img.shields.io/badge/Open_in_Colab-C77D88?style=flat-square)](https://colab.research.google.com/drive/1IJ5jwh_b38cqLnDMqd0JYdzia5UrJMbt?usp=sharing) [![Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/RahafAlmalki/California-Housing-ML-Assignment)
+[![Open in Colab](https://img.shields.io/badge/Open_in_Colab-C77D88?style=flat-square)](https://colab.research.google.com/drive/1IJ5jwh_b38cqLnDMqd0JYdzia5UrJMbt?usp=sharing) [![View Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/RahafAlmalki/California-Housing-ML-Assignment)
 
 Looking for more? Browse my full set of repositories and latest work on [my GitHub profile](https://github.com/AliyahAlabdali?tab=repositories).
 
