@@ -26,65 +26,50 @@ An Artificial Intelligence Specialist who builds end-to-end AI systems across **
 ### Languages
 
 <p>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/></a>
+  <a href="https://www.python.org/" title="Python official website"><img src="./assets/tech-stack/python.svg" width="44" height="44" alt="Python logo"></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL official website"><img src="./assets/tech-stack/postgresql.svg" width="44" height="44" alt="PostgreSQL logo"></a>
 </p>
 
 ### AI / Machine Learning
 
 <p>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/></a>
-  <a href="https://keras.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face"/></a>
-  <a href="https://docs.ultralytics.com/" target="_blank"><img src="https://cdn.simpleicons.org/ultralytics/0B23A9" width="48" height="48" alt="YOLO / Ultralytics"/></a>
-  <a href="https://onnx.ai/" target="_blank"><img src="https://cdn.simpleicons.org/onnx/005CED" width="48" height="48" alt="ONNX"/></a>
+  <a href="https://pytorch.org/" title="PyTorch official website"><img src="./assets/tech-stack/pytorch.svg" width="44" height="44" alt="PyTorch logo"></a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow official website"><img src="./assets/tech-stack/tensorflow.svg" width="44" height="44" alt="TensorFlow logo"></a>
+  <a href="https://keras.io/" title="Keras official website"><img src="./assets/tech-stack/keras.svg" width="44" height="44" alt="Keras logo"></a>
+  <a href="https://scikit-learn.org/" title="scikit-learn official website"><img src="./assets/tech-stack/scikit-learn.svg" width="44" height="44" alt="scikit-learn logo"></a>
+  <a href="https://opencv.org/" title="OpenCV official website"><img src="./assets/tech-stack/opencv.svg" width="44" height="44" alt="OpenCV logo"></a>
+  <a href="https://numpy.org/" title="NumPy official website"><img src="./assets/tech-stack/numpy.svg" width="44" height="44" alt="NumPy logo"></a>
+  <a href="https://pandas.pydata.org/" title="Pandas official website"><img src="./assets/tech-stack/pandas.svg" width="44" height="44" alt="Pandas logo"></a>
+  <a href="https://huggingface.co/" title="Hugging Face official website"><img src="./assets/tech-stack/hugging-face.svg" width="44" height="44" alt="Hugging Face logo"></a>
+  <a href="https://docs.ultralytics.com/" title="YOLO / Ultralytics official documentation"><img src="./assets/tech-stack/yolo-ultralytics.svg" width="44" height="44" alt="YOLO / Ultralytics logo"></a>
+  <a href="https://onnx.ai/" title="ONNX official website"><img src="./assets/tech-stack/onnx.svg" width="44" height="44" alt="ONNX logo"></a>
 </p>
 
 ### Backend & Frontend
 
 <p>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/></a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI official website"><img src="./assets/tech-stack/fastapi.svg" width="44" height="44" alt="FastAPI logo"></a>
+  <a href="https://react.dev/" title="React official website"><img src="./assets/tech-stack/react.svg" width="44" height="44" alt="React logo"></a>
 </p>
 
 ### Cloud & Hosting
 
 <p>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure"/></a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/aws.svg?color=%23FFFFFF">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/>
-    </picture>
-  </a>
-  <a href="https://vercel.com/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF">
-      <img src="https://cdn.simpleicons.org/vercel/000000" width="48" height="48" alt="Vercel"/>
-    </picture>
-  </a>
-  <a href="https://render.com/" target="_blank"><img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render"/></a>
+  <a href="https://azure.microsoft.com/" title="Azure official website"><img src="./assets/tech-stack/azure.svg" width="44" height="44" alt="Azure logo"></a>
+  <a href="https://aws.amazon.com/" title="AWS official website"><img src="./assets/tech-stack/aws.svg" width="44" height="44" alt="AWS logo"></a>
+  <a href="https://vercel.com/" title="Vercel official website"><img src="./assets/tech-stack/vercel.svg" width="44" height="44" alt="Vercel logo"></a>
+  <a href="https://render.com/" title="Render official website"><img src="./assets/tech-stack/render.svg" width="44" height="44" alt="Render logo"></a>
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/></a>
-  <a href="https://github.com/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
-      <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub"/>
-    </picture>
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" alt="Google Colab"/></a>
-  <a href="https://www.tensorflow.org/tensorboard" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorBoard"/></a>
-  <a href="https://roboflow.com/" target="_blank"><img src="https://cdn.simpleicons.org/roboflow/6706CE" width="48" height="48" alt="Roboflow"/></a>
+  <a href="https://code.visualstudio.com/" title="VS Code official website"><img src="./assets/tech-stack/vs-code.svg" width="44" height="44" alt="VS Code logo"></a>
+  <a href="https://jupyter.org/" title="Jupyter official website"><img src="./assets/tech-stack/jupyter.svg" width="44" height="44" alt="Jupyter logo"></a>
+  <a href="https://github.com/" title="GitHub official website"><img src="./assets/tech-stack/github.svg" width="44" height="44" alt="GitHub logo"></a>
+  <a href="https://colab.research.google.com/" title="Google Colab official website"><img src="./assets/tech-stack/google-colab.svg" width="44" height="44" alt="Google Colab logo"></a>
+  <a href="https://www.tensorflow.org/tensorboard" title="TensorBoard official website"><img src="./assets/tech-stack/tensorboard.svg" width="44" height="44" alt="TensorBoard logo"></a>
+  <a href="https://roboflow.com/" title="Roboflow official website"><img src="./assets/tech-stack/roboflow.svg" width="44" height="44" alt="Roboflow logo"></a>
 </p>
 
 ## Domains & Concepts
@@ -104,6 +89,17 @@ An Artificial Intelligence Specialist who builds end-to-end AI systems across **
 </p>
 
 ## Projects
+
+### [InterMind: Adaptive AI Technical Interviewer](https://github.com/AliyahAlabdali/InterMind)
+
+InterMind turns job descriptions into role-specific technical interviews that adapt to candidate answers and produce evidence-based reports for recruiters.
+
+- Built recruiter workflows for reviewing job analysis, planning interviews, sharing candidate links, and tracing report assessments to recorded answers.
+- Delivered isolated candidate sessions with adaptive follow-ups and speech or typed answers on a React/TypeScript frontend (Vercel) and FastAPI/LangGraph backend (Azure App Service), backed by Azure Database for PostgreSQL.
+
+![AI Interviews](https://img.shields.io/badge/AI_Interviews-F3C6D2?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-F3C6D2?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-F3C6D2?style=flat-square) ![React](https://img.shields.io/badge/React-F3C6D2?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-F3C6D2?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F3C6D2?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-F3C6D2?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-F3C6D2?style=flat-square)
+
+[![Open Live Demo](https://img.shields.io/badge/Live_Demo-C77D88?style=flat-square)](https://intermind-ai.vercel.app) [![View Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/AliyahAlabdali/InterMind)
 
 ### [Yaqidh: Real-Time Child-Safety Monitoring](https://github.com/Yaqidh-Project/Yaqidh)
 
