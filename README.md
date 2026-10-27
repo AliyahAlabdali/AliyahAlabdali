@@ -114,16 +114,18 @@ An end-to-end AI system that monitors live CCTV feeds, detects falls and physica
 
 [![Open Video Demo](https://img.shields.io/badge/Video_Demo-C77D88?style=flat-square)](https://drive.google.com/file/d/1gR5Adeat6XKeJb-j9T-kjN15vZKI8x94/view) [![View Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/Yaqidh-Project/Yaqidh)
 
-### [SMS Scam & Spam Detection: Transformer from Scratch](https://github.com/AliyahAlabdali/SMS-Scam-Detection-Transformer)
- 
-A Transformer encoder built entirely from scratch in PyTorch, with custom scaled dot-product attention, multi-head attention, and a Pre-LN encoder block, that flags scam/spam SMS.
- 
-- **98% accuracy** and **0.95 macro-F1** on the imbalanced SMS Spam Collection, with only 10 misclassifications out of 517 test messages.
-- Includes a unit-tested attention core, class-weighted training, an ablation study (2 vs 4 heads), and detailed error analysis.
 
-![NLP](https://img.shields.io/badge/NLP-F3C6D2?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-F3C6D2?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-F3C6D2?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F3C6D2?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F3C6D2?style=flat-square)
- 
-[![Open Live Demo](https://img.shields.io/badge/Live_Demo-C77D88?style=flat-square)](https://huggingface.co/spaces/AliyahAlabdali/sms-scam-detector) [![Open in Colab](https://img.shields.io/badge/Open_in_Colab-C77D88?style=flat-square)](https://colab.research.google.com/github/AliyahAlabdali/SMS-Scam-Detection-Transformer/blob/main/SMS_Scam_Detection_Transformer.ipynb) [![View Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/AliyahAlabdali/SMS-Scam-Detection-Transformer)
+### [Nabeeh | نَبيه — SMS Scam Detection](https://github.com/AliyahAlabdali/Nabeeh)
+
+A custom Transformer encoder built from scratch in PyTorch for SMS scam and spam detection, featuring multi-head self-attention and an interactive prediction demo.
+
+- Achieved **98.07% test accuracy** and **0.9542 macro-F1** on 517 held-out SMS messages.
+- Implemented custom attention components, class-weighted training, attention-head ablation, and detailed error analysis.
+
+![NLP](https://img.shields.io/badge/NLP-F3C6D2?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-F3C6D2?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-F3C6D2?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-F3C6D2?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-F3C6D2?style=flat-square)
+
+[![Open Live Demo](https://img.shields.io/badge/Live_Demo-C77D88?style=flat-square)](https://huggingface.co/spaces/AliyahAlabdali/sms-scam-detector) [![View Repository](https://img.shields.io/badge/Repository-C77D88?style=flat-square)](https://github.com/AliyahAlabdali/Nabeeh)
+
  
 ### [Brain Tumor Classification System (BTCS)](https://github.com/AliyahAlabdali/BTCS-Project)
 
