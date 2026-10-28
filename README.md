@@ -90,23 +90,33 @@ An Artificial Intelligence Specialist who builds end-to-end AI systems across **
 
 ## Projects
 
+
 <table align="center" width="100%">
 <tr><td width="100%" valign="top">
+
 <p><a href="https://github.com/AliyahAlabdali/InterMind">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/intermind-dark.png">
   <img src="./assets/projects/intermind-light.png" width="180" alt="InterMind official project logo">
 </picture>
 </a></p>
-<h3>InterMind: AI Technical Interviews</h3>
-<p>Automates the technical interview workflow: job-description analysis, recruiter-reviewed planning, adaptive interviews, and evidence-based reports. LangGraph orchestrates answer evaluation and follow-ups, while a React/FastAPI application on Vercel persists sessions and results in Neon PostgreSQL.</p>
-<p><strong>Isolated candidate sessions</strong> support speech or typed answers, with recruiter assessments traceable to recorded evidence.</p>
+
+<h3>InterMind: Autonomous AI Technical Interviewer</h3>
+
+<p>An agentic AI system that conducts adaptive, role-specific technical interviews. It transforms job descriptions into structured interview plans, asks technical questions, evaluates candidate responses, and dynamically generates follow-up questions based on demonstrated knowledge and gaps.</p>
+
+<p><strong>Beyond scripted interviews:</strong> LangGraph orchestrates a stateful AI interviewer that supports voice and text interactions, maintains interview context, and produces evidence-based assessment reports with traceable evaluations for recruiters.</p>
+
 <p>
   <img src="./assets/projects/badges/langgraph.svg" height="24" alt="LangGraph">
+  <img src="https://img.shields.io/badge/LLMs-F3C6D2?style=flat-square" height="24" alt="LLMs">
   <img src="./assets/projects/badges/fastapi.svg" height="24" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-F3C6D2?style=flat-square" height="24" alt="React">
   <img src="./assets/projects/badges/postgresql.svg" height="24" alt="PostgreSQL">
 </p>
+
 <p><a href="https://intermind-ai.vercel.app"><strong>Live demo</strong></a> &nbsp; · &nbsp; <a href="https://github.com/AliyahAlabdali/InterMind">Repository</a></p>
+
 </td></tr>
 </table>
 
