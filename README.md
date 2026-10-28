@@ -109,9 +109,9 @@ An Artificial Intelligence Specialist who builds end-to-end AI systems across **
 
 <p>
   <img src="./assets/projects/badges/langgraph.svg" height="24" alt="LangGraph">
-  <img src="https://img.shields.io/badge/LLMs-F3C6D2?style=flat-square" height="24" alt="LLMs">
+  <img src="./assets/projects/badges/llms.svg" height="24" alt="LLMs">
   <img src="./assets/projects/badges/fastapi.svg" height="24" alt="FastAPI">
-  <img src="https://img.shields.io/badge/React-F3C6D2?style=flat-square" height="24" alt="React">
+  <img src="./assets/projects/badges/react.svg" height="24" alt="React">
   <img src="./assets/projects/badges/postgresql.svg" height="24" alt="PostgreSQL">
 </p>
 
